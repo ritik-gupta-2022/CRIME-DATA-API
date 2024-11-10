@@ -7,14 +7,13 @@ const app = express();
 const PORT = 8080;
 
 app.use(cors({
-    origin: '*', 
+    origin: '*', // Allow requests from all origins (change '*' to your specific frontend URL for better security)
+    methods: ['GET', 'POST'], // Allow only GET and POST methods
+    allowedHeaders: ['Content-Type'], // Allow Content-Type header
 }));
 
 app.get('/api/data', (req, res) => {
-    res.setHeader('Access-Control-Allow-Origin', '*');
-    res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE');
-    res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
-    
+   
     const results = [];
     fs.createReadStream('crime_data.csv')
         .pipe(csvParser())
