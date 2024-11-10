@@ -1,8 +1,12 @@
 import express from "express";
 import fs from 'fs';
 import csvParser from "csv-parser";
+import cors from 'cors';
+
 const app = express();
 const PORT = 8080;
+
+app.use(cors());
 
 app.get('/api/data', (req, res) => {
     const results = [];
