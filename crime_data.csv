@@ -1,0 +1,601 @@
+Crime Type,Latitude,Longitude,City,Reported Date,Time of Day
+Assault,33.041118,70.463239,Delhi,2024-07-18,Afternoon
+Vandalism,18.935163,78.834519,Pune,2024-01-09,Morning
+Domestic Violence,20.40322,91.624701,Delhi,2024-10-03,Afternoon
+Cyber Crime,14.004694,80.449464,Pune,2024-03-15,Night
+Burglary,30.490272,80.443437,Surat,2024-02-01,Night
+Domestic Violence,13.196317,88.403749,Kolkata,2024-08-31,Night
+Theft,35.96077,78.510772,Surat,2024-09-24,Night
+Vandalism,21.013391,70.095461,Mumbai,2024-07-06,Afternoon
+Theft,19.669632,90.71965,Hyderabad,2024-10-30,Morning
+Vandalism,27.332145,84.370244,Surat,2024-07-30,Evening
+Homicide,14.641056,77.547447,Delhi,2024-10-04,Night
+Vandalism,27.123942,80.910089,Kolkata,2023-12-07,Night
+Burglary,29.869355,71.623959,Bangalore,2024-10-20,Afternoon
+Fraud,35.786818,75.080643,Chennai,2024-08-26,Afternoon
+Assault,10.703076,80.018347,Hyderabad,2024-08-24,Morning
+Homicide,21.690967,77.595766,Ahmedabad,2024-07-20,Evening
+Homicide,35.98116,70.656145,Delhi,2023-12-25,Afternoon
+Cyber Crime,20.331387,84.347395,Chennai,2024-02-04,Morning
+Burglary,10.409577,75.482406,Surat,2024-08-28,Morning
+Homicide,8.975214,90.169991,Mumbai,2023-12-29,Night
+Assault,31.953898,75.247566,Pune,2024-04-17,Morning
+Domestic Violence,19.834692,95.478614,Jaipur,2024-09-19,Morning
+Vandalism,16.008194,73.178213,Delhi,2024-09-10,Evening
+Cyber Crime,20.813959,89.495436,Bangalore,2024-08-23,Morning
+Domestic Violence,23.31227,73.241462,Delhi,2023-12-03,Night
+Burglary,10.047751,92.235107,Bangalore,2023-12-07,Afternoon
+Kidnapping,19.260878,84.184349,Surat,2023-11-22,Evening
+Assault,15.056367,82.317911,Delhi,2024-06-22,Night
+Theft,36.582354,93.068463,Jaipur,2024-11-01,Morning
+Fraud,22.442204,78.844973,Delhi,2024-11-08,Morning
+Assault,32.1491,92.329773,Chennai,2024-01-03,Evening
+Fraud,28.982978,81.892483,Delhi,2024-06-21,Afternoon
+Kidnapping,10.116234,68.844003,Jaipur,2024-03-10,Morning
+Homicide,13.547196,85.372699,Hyderabad,2023-12-12,Evening
+Vandalism,9.705916,94.055385,Mumbai,2024-09-15,Morning
+Fraud,31.629139,78.206737,Ahmedabad,2024-05-17,Evening
+Theft,27.998663,86.368316,Surat,2024-02-19,Evening
+Kidnapping,9.146206,90.54759,Bangalore,2024-04-17,Evening
+Burglary,34.80702,84.693818,Mumbai,2024-02-11,Night
+Cyber Crime,33.12427,92.614167,Surat,2024-02-22,Afternoon
+Burglary,26.668159,70.586807,Delhi,2024-06-05,Afternoon
+Kidnapping,35.379682,73.16921,Pune,2024-03-25,Evening
+Theft,32.88679,82.46622,Chennai,2024-04-14,Morning
+Homicide,33.224629,74.035385,Pune,2024-01-02,Night
+Theft,22.91243,96.808363,Jaipur,2024-03-20,Afternoon
+Cyber Crime,10.24985,76.23062,Mumbai,2024-09-12,Afternoon
+Kidnapping,24.03525,87.517344,Pune,2024-02-19,Night
+Assault,19.547514,70.243329,Delhi,2024-11-06,Night
+Assault,18.429957,91.200602,Delhi,2023-11-14,Evening
+Assault,34.563927,74.149651,Delhi,2024-03-09,Evening
+Vandalism,10.759096,82.515504,Hyderabad,2024-08-22,Afternoon
+Vandalism,36.357367,83.693273,Jaipur,2024-07-10,Afternoon
+Burglary,20.680006,78.502562,Delhi,2023-12-13,Morning
+Homicide,15.810048,93.129216,Surat,2024-05-21,Evening
+Kidnapping,31.676029,82.563909,Bangalore,2024-05-08,Afternoon
+Assault,27.096834,74.239159,Hyderabad,2024-10-21,Afternoon
+Domestic Violence,32.753329,85.707634,Chennai,2024-11-07,Night
+Theft,10.929709,75.0451,Hyderabad,2024-06-05,Afternoon
+Domestic Violence,18.94932,89.266608,Jaipur,2024-01-22,Evening
+Homicide,31.926508,74.507613,Ahmedabad,2024-01-10,Night
+Burglary,30.60807,91.253653,Delhi,2024-04-22,Evening
+Burglary,12.438541,88.78336,Mumbai,2023-11-16,Afternoon
+Theft,20.713203,68.121716,Pune,2024-09-29,Morning
+Theft,34.996996,88.91681,Hyderabad,2024-01-12,Morning
+Vandalism,16.579987,91.538786,Hyderabad,2024-09-22,Night
+Assault,20.299137,74.34052,Ahmedabad,2024-04-14,Night
+Fraud,11.291625,75.149286,Hyderabad,2024-10-11,Afternoon
+Burglary,10.060544,90.093546,Delhi,2024-05-03,Evening
+Fraud,8.697248,88.9325,Delhi,2024-09-26,Morning
+Vandalism,27.209276,79.046643,Mumbai,2024-09-29,Afternoon
+Kidnapping,16.231328,79.085303,Pune,2023-11-19,Night
+Vandalism,29.236583,84.844501,Surat,2024-01-31,Afternoon
+Assault,26.218106,87.175444,Kolkata,2024-06-18,Afternoon
+Vandalism,26.04093,78.228006,Chennai,2024-10-14,Afternoon
+Fraud,27.436797,94.286986,Mumbai,2024-04-07,Morning
+Vandalism,14.946683,87.684584,Hyderabad,2024-04-17,Afternoon
+Assault,20.741541,91.371304,Bangalore,2023-12-24,Night
+Theft,14.963555,94.982699,Chennai,2024-08-03,Afternoon
+Kidnapping,27.660694,84.16802,Jaipur,2024-08-16,Night
+Assault,29.57988,95.153691,Pune,2024-10-19,Morning
+Fraud,10.435165,82.343237,Surat,2024-06-01,Night
+Assault,26.157623,92.968089,Kolkata,2024-09-24,Afternoon
+Fraud,34.726142,84.532265,Chennai,2024-06-05,Night
+Cyber Crime,23.594448,96.053772,Ahmedabad,2024-04-26,Afternoon
+Domestic Violence,26.811334,81.727109,Hyderabad,2024-05-17,Night
+Cyber Crime,18.825421,88.869121,Pune,2024-02-06,Evening
+Assault,34.766228,77.921306,Kolkata,2024-07-05,Evening
+Burglary,21.990663,76.980772,Kolkata,2024-06-19,Morning
+Assault,12.211737,72.070734,Delhi,2023-12-11,Afternoon
+Fraud,30.59049,79.316485,Chennai,2024-09-30,Afternoon
+Kidnapping,11.457376,91.046734,Delhi,2024-05-07,Night
+Kidnapping,18.221794,77.875159,Mumbai,2024-01-31,Night
+Kidnapping,17.928537,73.875276,Delhi,2024-04-13,Morning
+Vandalism,8.224356,74.979443,Jaipur,2024-06-06,Morning
+Homicide,19.686443,73.105937,Bangalore,2024-05-04,Morning
+Kidnapping,17.782907,96.759188,Bangalore,2024-10-14,Morning
+Domestic Violence,9.239629,74.554,Hyderabad,2024-09-27,Afternoon
+Theft,18.058161,86.118012,Mumbai,2024-11-04,Morning
+Cyber Crime,18.802662,93.433299,Pune,2024-04-06,Afternoon
+Kidnapping,26.073212,92.272713,Kolkata,2024-03-08,Afternoon
+Burglary,24.947126,88.95184,Pune,2024-05-18,Evening
+Vandalism,13.288617,87.856811,Jaipur,2024-07-18,Morning
+Kidnapping,29.569804,68.379959,Ahmedabad,2024-06-27,Afternoon
+Burglary,26.680246,85.207493,Delhi,2024-10-20,Evening
+Vandalism,34.94813,85.389465,Pune,2024-08-04,Night
+Theft,15.655341,75.82583,Delhi,2024-04-20,Night
+Homicide,15.821575,78.120219,Surat,2024-08-04,Afternoon
+Assault,20.435156,75.508993,Mumbai,2024-02-15,Evening
+Domestic Violence,22.204847,73.574564,Kolkata,2024-01-09,Night
+Theft,19.906266,88.054282,Bangalore,2023-12-25,Evening
+Homicide,17.546398,75.109525,Chennai,2024-06-20,Afternoon
+Homicide,28.578769,76.309374,Hyderabad,2024-09-13,Night
+Kidnapping,35.692714,79.064358,Mumbai,2023-12-17,Morning
+Cyber Crime,28.797733,76.02633,Pune,2024-03-03,Morning
+Homicide,9.757294,80.036928,Bangalore,2024-07-06,Morning
+Assault,24.283831,88.964563,Mumbai,2024-03-31,Morning
+Domestic Violence,16.625364,72.538433,Delhi,2024-04-14,Evening
+Homicide,21.819029,83.09355,Hyderabad,2024-06-20,Morning
+Domestic Violence,32.089427,94.413559,Hyderabad,2024-03-30,Evening
+Cyber Crime,26.309722,72.918386,Pune,2024-10-27,Afternoon
+Homicide,35.704391,96.176161,Mumbai,2024-03-05,Night
+Burglary,17.208474,78.664748,Mumbai,2023-12-28,Afternoon
+Kidnapping,13.260588,85.274651,Chennai,2024-02-18,Night
+Fraud,10.671449,77.322446,Delhi,2024-07-27,Morning
+Fraud,11.4312,95.414089,Pune,2024-08-16,Night
+Assault,29.07105,78.511989,Chennai,2024-01-07,Evening
+Homicide,33.062923,80.560612,Pune,2024-01-22,Afternoon
+Kidnapping,14.638843,70.08168,Surat,2023-11-29,Evening
+Cyber Crime,16.587666,79.135814,Chennai,2024-03-01,Night
+Homicide,26.912106,79.988599,Bangalore,2024-01-05,Morning
+Cyber Crime,17.418165,72.46222,Hyderabad,2024-03-20,Morning
+Domestic Violence,28.020296,73.642223,Jaipur,2024-11-09,Afternoon
+Fraud,20.162096,72.935289,Kolkata,2024-01-03,Morning
+Cyber Crime,33.898649,75.944763,Pune,2023-11-17,Afternoon
+Domestic Violence,35.468457,83.968031,Pune,2024-09-04,Morning
+Cyber Crime,19.426598,85.492302,Jaipur,2024-08-09,Afternoon
+Cyber Crime,29.185595,75.841824,Delhi,2024-01-09,Evening
+Burglary,30.66359,94.083891,Chennai,2024-07-24,Night
+Kidnapping,22.336513,72.32344,Surat,2024-07-26,Afternoon
+Domestic Violence,21.187431,70.790224,Surat,2024-03-17,Night
+Homicide,21.882325,96.583234,Delhi,2024-01-26,Evening
+Cyber Crime,11.121881,89.604322,Bangalore,2024-07-10,Night
+Assault,9.501348,86.655492,Delhi,2024-06-10,Night
+Fraud,35.368797,80.384455,Ahmedabad,2024-03-20,Morning
+Domestic Violence,13.773323,79.353081,Kolkata,2023-12-27,Morning
+Homicide,22.925763,71.236582,Chennai,2024-08-15,Afternoon
+Theft,11.814015,69.654543,Hyderabad,2024-06-15,Night
+Theft,20.536012,68.277042,Pune,2024-09-16,Afternoon
+Assault,16.870003,96.855563,Mumbai,2024-05-18,Evening
+Cyber Crime,29.335363,85.728875,Pune,2023-12-14,Evening
+Domestic Violence,18.235174,93.839084,Pune,2024-06-08,Evening
+Burglary,27.571659,85.954729,Bangalore,2024-10-26,Night
+Homicide,20.253909,90.627544,Chennai,2024-08-31,Evening
+Vandalism,36.249609,80.456948,Surat,2024-06-15,Afternoon
+Homicide,15.074028,83.978158,Kolkata,2023-12-27,Morning
+Assault,31.804712,76.764711,Chennai,2024-05-05,Evening
+Burglary,17.775153,76.783389,Kolkata,2024-02-27,Afternoon
+Fraud,14.255263,71.800032,Kolkata,2024-05-28,Evening
+Kidnapping,35.379524,96.383232,Bangalore,2024-09-14,Evening
+Vandalism,16.921322,79.386667,Chennai,2023-12-09,Afternoon
+Fraud,34.384551,74.578966,Pune,2024-10-21,Night
+Cyber Crime,8.176491,70.006617,Ahmedabad,2024-07-25,Morning
+Domestic Violence,24.92718,83.212025,Pune,2023-12-06,Night
+Burglary,18.333282,76.805663,Delhi,2024-02-25,Morning
+Assault,16.148415,93.192851,Bangalore,2023-11-28,Morning
+Theft,34.55724,82.759248,Mumbai,2023-12-30,Night
+Kidnapping,36.344886,70.717686,Ahmedabad,2024-10-24,Night
+Burglary,19.729469,69.465124,Pune,2024-09-27,Morning
+Domestic Violence,13.400114,80.066255,Delhi,2024-02-02,Afternoon
+Vandalism,35.625707,78.659333,Surat,2024-10-17,Morning
+Fraud,12.760997,80.640874,Hyderabad,2024-02-28,Morning
+Homicide,20.130434,69.679595,Kolkata,2023-11-23,Morning
+Vandalism,13.420488,68.03325,Mumbai,2024-09-07,Night
+Domestic Violence,20.671855,89.563752,Surat,2024-05-23,Afternoon
+Assault,25.705041,85.596995,Chennai,2024-02-19,Evening
+Vandalism,15.0384,80.384393,Kolkata,2024-08-14,Afternoon
+Burglary,20.178953,86.611033,Kolkata,2024-01-21,Morning
+Domestic Violence,15.453,74.217287,Surat,2024-07-29,Evening
+Homicide,26.010168,73.51563,Surat,2023-12-27,Evening
+Fraud,23.821401,80.232367,Delhi,2023-12-29,Evening
+Burglary,24.514758,72.809942,Hyderabad,2024-05-13,Night
+Homicide,16.927485,83.58909,Delhi,2024-06-25,Evening
+Kidnapping,33.232709,87.292913,Bangalore,2023-12-23,Night
+Vandalism,18.449984,95.914345,Bangalore,2024-08-30,Morning
+Vandalism,27.651763,86.513804,Ahmedabad,2024-07-28,Morning
+Burglary,35.771961,78.728427,Kolkata,2024-05-21,Morning
+Fraud,11.127535,90.374818,Bangalore,2023-11-30,Morning
+Vandalism,23.008109,80.326698,Surat,2024-01-25,Morning
+Fraud,16.330485,81.973362,Kolkata,2024-03-14,Night
+Theft,33.683964,92.531446,Chennai,2024-07-28,Night
+Burglary,29.098397,71.334537,Chennai,2024-02-08,Night
+Homicide,34.181963,96.207157,Chennai,2024-02-07,Evening
+Domestic Violence,34.571294,92.559341,Pune,2024-05-02,Morning
+Vandalism,31.192462,92.958071,Kolkata,2024-01-08,Afternoon
+Cyber Crime,19.542681,77.614547,Chennai,2024-05-28,Evening
+Fraud,34.923998,90.877516,Bangalore,2024-04-28,Evening
+Kidnapping,22.434629,72.94345,Ahmedabad,2024-04-01,Evening
+Burglary,12.567934,89.830292,Pune,2023-11-29,Evening
+Domestic Violence,13.012077,94.829662,Ahmedabad,2023-12-07,Morning
+Assault,32.02832,79.801309,Bangalore,2024-06-27,Morning
+Domestic Violence,12.239003,73.799515,Mumbai,2024-10-06,Evening
+Homicide,14.112153,95.744264,Surat,2024-04-24,Evening
+Homicide,29.896586,73.438416,Chennai,2024-06-30,Evening
+Assault,36.286431,75.066792,Mumbai,2024-08-14,Morning
+Kidnapping,33.458635,76.520071,Chennai,2024-01-02,Morning
+Assault,26.449486,87.520184,Pune,2024-08-29,Afternoon
+Burglary,11.340117,90.73564,Delhi,2024-04-09,Evening
+Kidnapping,13.056015,90.118107,Kolkata,2024-04-08,Evening
+Domestic Violence,13.691252,77.641393,Kolkata,2024-03-01,Evening
+Domestic Violence,32.167536,91.412943,Kolkata,2024-06-03,Afternoon
+Cyber Crime,18.27099,74.362346,Kolkata,2024-04-09,Night
+Fraud,22.044039,75.405735,Hyderabad,2024-05-10,Afternoon
+Burglary,20.301943,88.542402,Pune,2024-09-19,Morning
+Homicide,28.174298,87.13426,Mumbai,2024-06-26,Evening
+Vandalism,20.439572,91.796405,Pune,2024-06-29,Morning
+Assault,24.178683,73.927232,Surat,2024-04-23,Evening
+Fraud,31.886621,89.125877,Ahmedabad,2024-03-29,Afternoon
+Cyber Crime,10.730729,86.902503,Hyderabad,2024-07-13,Afternoon
+Assault,30.050546,85.441982,Ahmedabad,2024-02-05,Night
+Burglary,34.467599,95.422542,Mumbai,2024-01-10,Afternoon
+Vandalism,18.460822,90.746265,Delhi,2024-10-07,Afternoon
+Fraud,8.290976,91.759457,Chennai,2024-05-02,Evening
+Homicide,16.387576,87.725542,Jaipur,2024-07-18,Afternoon
+Kidnapping,9.616956,94.044629,Chennai,2024-01-19,Morning
+Assault,19.28371,83.670135,Kolkata,2024-05-25,Afternoon
+Kidnapping,13.950559,92.333745,Chennai,2023-11-19,Morning
+Cyber Crime,23.636182,72.868669,Jaipur,2024-02-12,Afternoon
+Theft,20.576551,84.423565,Mumbai,2024-03-18,Evening
+Homicide,17.556888,93.539217,Chennai,2023-11-21,Evening
+Kidnapping,23.99284,96.062976,Surat,2024-05-12,Afternoon
+Vandalism,8.400608,69.477675,Delhi,2024-05-30,Afternoon
+Cyber Crime,8.144907,93.429879,Mumbai,2023-12-06,Night
+Assault,12.413643,81.730391,Pune,2024-07-28,Morning
+Assault,36.366246,87.228026,Mumbai,2024-06-26,Evening
+Cyber Crime,28.383398,80.099216,Surat,2024-08-18,Evening
+Cyber Crime,20.628973,71.508662,Hyderabad,2024-09-09,Night
+Kidnapping,16.048477,94.434114,Jaipur,2024-01-11,Morning
+Cyber Crime,35.471125,91.440372,Bangalore,2023-12-22,Afternoon
+Homicide,9.067712,78.174681,Surat,2024-04-20,Night
+Assault,20.511798,71.726155,Hyderabad,2023-12-24,Morning
+Fraud,18.82585,78.242805,Pune,2024-01-30,Evening
+Assault,19.453253,80.314891,Surat,2024-04-08,Afternoon
+Cyber Crime,33.611175,76.315138,Delhi,2024-04-15,Evening
+Fraud,17.804682,71.383721,Bangalore,2024-08-17,Morning
+Domestic Violence,29.086019,94.542934,Delhi,2024-05-31,Morning
+Fraud,30.216471,85.171371,Pune,2024-05-18,Night
+Domestic Violence,15.962832,69.98279,Kolkata,2024-01-30,Morning
+Assault,23.264712,72.041826,Bangalore,2024-03-07,Night
+Theft,31.62514,83.580683,Hyderabad,2023-11-26,Morning
+Domestic Violence,17.981422,70.020613,Bangalore,2024-01-10,Morning
+Burglary,25.289955,83.144928,Bangalore,2024-07-09,Night
+Kidnapping,29.975971,85.17995,Delhi,2023-11-21,Morning
+Cyber Crime,15.243338,88.351505,Bangalore,2024-08-19,Evening
+Cyber Crime,34.521354,94.59752,Chennai,2024-01-01,Morning
+Fraud,35.021823,74.729531,Bangalore,2024-07-11,Evening
+Fraud,19.487487,90.147413,Hyderabad,2024-07-23,Night
+Vandalism,14.527286,86.553062,Mumbai,2024-08-07,Evening
+Domestic Violence,10.065756,82.349429,Mumbai,2024-10-24,Morning
+Assault,31.035087,85.429158,Delhi,2023-12-01,Evening
+Theft,23.447546,75.904591,Chennai,2024-01-05,Evening
+Burglary,27.880082,89.400113,Delhi,2024-09-20,Night
+Fraud,8.566149,70.803525,Jaipur,2024-02-04,Afternoon
+Domestic Violence,28.127199,91.314124,Ahmedabad,2023-11-13,Night
+Burglary,14.353857,81.404948,Delhi,2024-05-06,Evening
+Assault,13.040074,82.354199,Surat,2024-07-25,Afternoon
+Burglary,17.053898,77.547006,Jaipur,2024-05-27,Afternoon
+Burglary,13.901187,82.418461,Hyderabad,2024-11-01,Morning
+Theft,10.273031,75.192903,Hyderabad,2024-05-25,Morning
+Vandalism,16.65887,89.396051,Ahmedabad,2023-11-23,Night
+Cyber Crime,14.824389,94.113681,Surat,2024-03-23,Afternoon
+Theft,22.031166,74.369891,Ahmedabad,2024-02-14,Afternoon
+Homicide,13.09168,81.504484,Bangalore,2024-01-28,Morning
+Domestic Violence,30.001193,86.175079,Ahmedabad,2024-09-12,Morning
+Theft,31.614687,72.473133,Delhi,2024-10-17,Afternoon
+Vandalism,9.479942,85.301373,Chennai,2024-03-10,Evening
+Theft,8.775417,85.651138,Ahmedabad,2024-01-11,Afternoon
+Homicide,23.269707,79.987291,Delhi,2024-06-29,Evening
+Homicide,9.5797,80.935646,Mumbai,2024-08-25,Night
+Domestic Violence,23.626166,91.525574,Surat,2023-12-14,Evening
+Vandalism,32.916274,69.425587,Surat,2024-01-13,Afternoon
+Fraud,27.822035,85.91315,Jaipur,2024-10-11,Night
+Fraud,30.079521,88.96807,Jaipur,2023-12-08,Night
+Kidnapping,27.472341,79.484014,Hyderabad,2024-10-02,Morning
+Homicide,31.415044,73.189449,Kolkata,2024-10-23,Afternoon
+Cyber Crime,30.889828,77.068533,Mumbai,2023-12-11,Afternoon
+Burglary,22.692587,82.133917,Pune,2024-01-05,Morning
+Fraud,15.64085,81.624424,Hyderabad,2024-01-21,Evening
+Domestic Violence,15.090636,68.790242,Jaipur,2023-12-17,Morning
+Assault,22.49298,87.873396,Jaipur,2024-01-21,Morning
+Homicide,11.858984,92.380073,Chennai,2024-09-15,Morning
+Kidnapping,35.170872,74.101589,Ahmedabad,2024-02-06,Morning
+Fraud,15.460932,93.677628,Hyderabad,2024-04-15,Night
+Cyber Crime,19.583807,76.498816,Chennai,2024-10-09,Morning
+Domestic Violence,19.214905,74.173037,Mumbai,2024-01-14,Afternoon
+Domestic Violence,24.439384,69.845171,Kolkata,2024-10-29,Night
+Homicide,22.490808,85.30643,Mumbai,2024-08-28,Afternoon
+Burglary,19.409232,70.49143,Surat,2024-07-20,Morning
+Homicide,20.803386,69.727583,Mumbai,2024-01-26,Afternoon
+Kidnapping,29.901177,68.019719,Chennai,2024-04-20,Afternoon
+Kidnapping,32.643756,75.95145,Surat,2024-02-05,Morning
+Homicide,28.791707,84.077332,Chennai,2024-09-19,Night
+Burglary,15.46486,86.671252,Ahmedabad,2024-03-30,Afternoon
+Domestic Violence,34.946446,87.761746,Delhi,2024-03-12,Evening
+Assault,35.563669,85.652416,Pune,2024-05-19,Night
+Assault,36.080092,77.207925,Jaipur,2024-08-25,Evening
+Kidnapping,33.950322,79.769959,Jaipur,2024-07-25,Afternoon
+Homicide,25.507495,72.351735,Pune,2024-02-11,Evening
+Burglary,23.992197,68.955465,Chennai,2023-12-30,Morning
+Cyber Crime,34.865139,94.854217,Ahmedabad,2024-08-28,Night
+Assault,32.133903,81.367456,Jaipur,2024-10-17,Evening
+Vandalism,11.799854,84.084324,Pune,2024-08-18,Afternoon
+Theft,27.234986,87.373815,Jaipur,2024-01-17,Morning
+Theft,23.289359,68.39491,Chennai,2024-04-22,Morning
+Fraud,25.614018,91.904066,Mumbai,2024-05-20,Afternoon
+Burglary,30.501243,91.567395,Hyderabad,2024-03-26,Evening
+Burglary,31.129394,71.720684,Delhi,2024-10-28,Afternoon
+Theft,19.927114,91.52469,Ahmedabad,2024-03-30,Night
+Cyber Crime,26.668374,76.017007,Bangalore,2024-04-19,Morning
+Assault,34.359121,76.631766,Surat,2024-03-10,Evening
+Theft,31.206643,68.112427,Pune,2024-01-15,Afternoon
+Theft,26.802977,86.056295,Bangalore,2023-11-16,Afternoon
+Fraud,36.826165,77.466409,Mumbai,2023-12-26,Evening
+Assault,29.044265,72.662802,Delhi,2024-10-29,Evening
+Fraud,24.306162,95.904697,Pune,2024-09-04,Morning
+Vandalism,35.548461,79.813177,Delhi,2024-07-25,Evening
+Fraud,27.748778,76.401088,Pune,2024-04-13,Evening
+Assault,16.360246,71.280947,Chennai,2024-08-19,Morning
+Cyber Crime,30.186836,83.54168,Chennai,2024-01-28,Night
+Theft,36.043032,88.679416,Pune,2024-03-04,Night
+Burglary,18.610022,93.065316,Ahmedabad,2024-07-01,Evening
+Theft,13.677546,73.453208,Ahmedabad,2023-12-26,Afternoon
+Theft,29.419409,78.334412,Kolkata,2024-06-23,Morning
+Vandalism,21.155582,86.320468,Mumbai,2024-05-31,Evening
+Fraud,32.530759,83.252229,Jaipur,2024-02-24,Afternoon
+Cyber Crime,14.118816,72.269602,Kolkata,2024-10-26,Morning
+Vandalism,19.109222,92.207347,Kolkata,2024-09-21,Evening
+Burglary,10.936539,88.16242,Hyderabad,2024-03-20,Night
+Assault,28.214642,74.57023,Pune,2024-04-02,Night
+Kidnapping,15.967681,70.671018,Surat,2024-07-19,Evening
+Homicide,11.836797,73.669145,Bangalore,2024-01-02,Morning
+Homicide,36.353662,71.231993,Chennai,2024-02-29,Night
+Fraud,15.60588,84.936599,Ahmedabad,2024-01-25,Night
+Vandalism,12.035354,83.728619,Hyderabad,2024-06-16,Morning
+Domestic Violence,28.634499,76.808539,Pune,2024-04-15,Evening
+Burglary,33.938885,93.361481,Kolkata,2024-08-22,Night
+Assault,11.099046,91.001608,Kolkata,2024-11-02,Night
+Kidnapping,12.22899,69.176471,Delhi,2024-01-09,Morning
+Fraud,33.223807,89.207447,Mumbai,2023-12-26,Afternoon
+Burglary,33.497283,77.105921,Chennai,2024-01-01,Night
+Vandalism,21.222423,88.064255,Chennai,2024-01-10,Night
+Fraud,28.460444,95.470045,Jaipur,2023-12-01,Afternoon
+Fraud,15.302905,71.636935,Kolkata,2024-07-23,Evening
+Homicide,30.888895,86.886433,Chennai,2024-03-26,Morning
+Domestic Violence,14.317845,89.389431,Mumbai,2024-07-28,Afternoon
+Fraud,36.354007,94.307186,Kolkata,2024-08-25,Morning
+Homicide,17.931971,80.276848,Jaipur,2023-12-09,Afternoon
+Theft,29.126574,88.127553,Bangalore,2024-08-24,Afternoon
+Domestic Violence,33.625595,89.254522,Chennai,2024-04-19,Morning
+Theft,13.228673,73.894969,Delhi,2024-06-10,Morning
+Domestic Violence,19.607016,85.74903,Chennai,2024-03-04,Morning
+Burglary,36.619979,76.603675,Pune,2024-02-12,Morning
+Assault,35.207233,87.103386,Surat,2024-04-03,Evening
+Assault,8.968131,76.392703,Ahmedabad,2024-03-12,Night
+Assault,20.669402,96.723584,Chennai,2023-11-29,Morning
+Fraud,29.901879,85.783284,Delhi,2024-08-20,Afternoon
+Cyber Crime,36.608012,87.172152,Mumbai,2024-07-11,Evening
+Vandalism,26.65478,87.711566,Delhi,2024-05-30,Evening
+Fraud,23.270028,93.098161,Bangalore,2024-07-28,Afternoon
+Homicide,8.650269,69.019963,Jaipur,2024-07-02,Afternoon
+Fraud,10.570674,76.026728,Ahmedabad,2024-03-25,Afternoon
+Vandalism,10.645149,89.573729,Surat,2024-02-26,Evening
+Homicide,16.027039,90.587616,Jaipur,2024-10-21,Morning
+Vandalism,19.136928,95.234872,Pune,2024-10-19,Evening
+Kidnapping,21.498124,76.283281,Chennai,2024-06-17,Morning
+Cyber Crime,23.123431,91.948045,Mumbai,2024-06-13,Afternoon
+Burglary,27.064377,76.253466,Chennai,2024-08-30,Afternoon
+Domestic Violence,12.03726,94.033568,Delhi,2024-01-01,Morning
+Homicide,24.375026,68.290403,Ahmedabad,2024-10-12,Night
+Assault,25.173675,73.419883,Hyderabad,2024-01-10,Morning
+Cyber Crime,14.731301,70.056205,Bangalore,2024-01-30,Afternoon
+Domestic Violence,33.460781,87.360552,Bangalore,2024-05-08,Afternoon
+Vandalism,9.332183,94.619553,Kolkata,2024-11-06,Morning
+Burglary,22.208967,82.28994,Chennai,2023-11-27,Morning
+Domestic Violence,24.568469,82.170089,Hyderabad,2024-01-29,Afternoon
+Vandalism,14.290545,92.273616,Bangalore,2023-12-24,Afternoon
+Domestic Violence,25.709082,72.521628,Kolkata,2024-01-23,Afternoon
+Domestic Violence,24.051896,96.804523,Mumbai,2023-12-08,Evening
+Homicide,30.453219,71.132276,Delhi,2023-12-18,Night
+Cyber Crime,20.037583,68.426353,Mumbai,2024-09-21,Afternoon
+Domestic Violence,21.9282,86.057271,Jaipur,2024-01-12,Morning
+Kidnapping,-70.325705,74.688051,Tokyo,2024-10-13,Afternoon
+Fraud,64.600013,36.64737,Sydney,2024-06-22,Morning
+Kidnapping,21.384182,101.468759,Tokyo,2023-12-27,Evening
+Vandalism,-58.872902,25.269372,Tokyo,2024-02-10,Afternoon
+Burglary,-5.964394,125.861838,Tokyo,2024-01-10,Afternoon
+Vandalism,28.568542,131.034362,Singapore,2024-04-12,Night
+Homicide,-33.502039,53.426335,Singapore,2024-04-04,Morning
+Vandalism,2.531959,-137.223475,Dubai,2023-11-23,Afternoon
+Theft,-4.451197,-6.221229,Sydney,2024-03-26,Night
+Cyber Crime,-83.662764,-98.817803,Paris,2024-04-11,Afternoon
+Kidnapping,-57.373507,2.274079,Los Angeles,2024-09-28,Afternoon
+Domestic Violence,43.719958,-75.22626,Toronto,2024-02-23,Afternoon
+Cyber Crime,35.290098,-6.866313,New York,2024-06-18,Night
+Vandalism,46.478131,-125.031008,Berlin,2024-09-16,Evening
+Kidnapping,-36.216955,-72.976131,London,2024-02-17,Night
+Domestic Violence,67.964568,-104.556698,New York,2024-09-15,Afternoon
+Cyber Crime,63.840124,-69.285447,London,2024-10-17,Evening
+Kidnapping,-67.784594,91.557998,Los Angeles,2024-05-23,Night
+Fraud,26.21647,-143.374354,Sydney,2023-12-20,Night
+Vandalism,28.550533,-43.580684,Sydney,2024-04-28,Afternoon
+Kidnapping,49.359555,69.226569,Los Angeles,2024-10-16,Evening
+Homicide,-44.454811,55.49584,Paris,2024-09-09,Evening
+Fraud,24.448207,46.796174,Singapore,2024-04-21,Evening
+Fraud,87.540691,-102.78883,Singapore,2024-04-10,Evening
+Assault,10.747417,-67.35915,Toronto,2024-09-02,Night
+Vandalism,-43.277875,-20.043013,Tokyo,2024-04-05,Evening
+Burglary,58.364514,-122.523613,Paris,2024-03-25,Morning
+Homicide,49.592668,138.510385,Berlin,2024-05-04,Night
+Cyber Crime,-43.686526,160.147876,Berlin,2023-12-04,Evening
+Domestic Violence,50.990267,-76.400835,Singapore,2024-05-10,Afternoon
+Fraud,27.032457,57.946679,Dubai,2024-03-30,Evening
+Fraud,-63.09024,-127.444414,Dubai,2024-04-17,Evening
+Burglary,-66.430174,-145.943033,Tokyo,2024-06-23,Evening
+Vandalism,38.288795,-57.276486,Sydney,2024-08-21,Night
+Homicide,14.473322,78.630408,Los Angeles,2024-05-24,Night
+Assault,54.939256,22.376252,Singapore,2024-01-26,Morning
+Kidnapping,20.604786,68.697775,Dubai,2024-07-19,Morning
+Kidnapping,-11.962273,146.847255,Singapore,2024-07-23,Evening
+Vandalism,-72.869235,84.03698,Tokyo,2024-08-13,Night
+Vandalism,-51.648888,-154.261582,London,2024-04-21,Evening
+Domestic Violence,-80.901831,135.95347,Paris,2024-04-24,Night
+Cyber Crime,-40.795806,51.052083,Singapore,2024-09-07,Night
+Assault,36.709047,-96.467905,Toronto,2024-06-24,Afternoon
+Domestic Violence,4.744423,58.166283,Toronto,2024-10-14,Evening
+Domestic Violence,21.711196,-132.542705,Sydney,2024-07-24,Morning
+Fraud,-81.300857,-152.209549,Toronto,2024-01-17,Morning
+Theft,-54.085066,10.713217,Dubai,2024-01-05,Night
+Kidnapping,23.553965,-145.218553,New York,2023-11-11,Night
+Theft,-18.215304,-162.521937,Sydney,2024-07-03,Evening
+Assault,60.49963,47.258983,Dubai,2024-07-24,Night
+Vandalism,8.857233,-77.169677,Singapore,2024-10-08,Evening
+Burglary,34.062177,-34.234526,Singapore,2024-08-12,Morning
+Burglary,-38.688358,-18.434162,London,2024-07-06,Afternoon
+Cyber Crime,-54.442123,95.598989,Toronto,2024-01-30,Morning
+Burglary,81.490286,-161.666765,New York,2024-04-19,Evening
+Burglary,-10.009732,44.526657,Tokyo,2024-05-04,Evening
+Theft,-9.206951,83.664312,Dubai,2024-07-12,Night
+Theft,2.695881,23.223259,Los Angeles,2024-03-14,Morning
+Domestic Violence,-58.382982,92.964757,New York,2023-11-28,Afternoon
+Assault,36.613241,-37.16528,New York,2023-12-21,Evening
+Fraud,-65.851144,-138.962474,Paris,2024-03-11,Morning
+Kidnapping,57.846947,-72.690377,New York,2024-06-07,Evening
+Cyber Crime,-67.034319,-130.370002,Dubai,2024-06-29,Night
+Homicide,-77.915738,3.315354,Paris,2024-05-05,Morning
+Kidnapping,16.071783,89.762118,London,2024-09-07,Evening
+Vandalism,52.846517,-78.57098,Dubai,2023-12-30,Afternoon
+Theft,79.757562,-148.591274,Singapore,2024-01-14,Night
+Theft,-66.807854,-178.743177,Dubai,2023-12-04,Evening
+Vandalism,46.815875,84.27954,London,2024-03-18,Night
+Burglary,58.380384,124.993813,Berlin,2024-02-16,Night
+Burglary,-66.637103,-15.837219,Tokyo,2024-02-27,Night
+Vandalism,89.586137,-71.297509,Sydney,2024-02-01,Afternoon
+Domestic Violence,23.238993,132.058748,Berlin,2024-05-29,Morning
+Cyber Crime,64.590165,103.475757,Berlin,2024-05-08,Morning
+Homicide,-8.06985,-170.390472,New York,2024-02-18,Afternoon
+Cyber Crime,-49.219974,-7.166006,Toronto,2024-07-21,Morning
+Fraud,-3.073565,158.333368,Singapore,2024-01-09,Evening
+Theft,32.830355,160.032876,Dubai,2024-09-06,Afternoon
+Domestic Violence,-89.668834,-44.873953,New York,2024-10-11,Night
+Fraud,-51.267388,72.65407,Tokyo,2023-11-16,Night
+Assault,-46.459441,120.969195,Tokyo,2024-08-12,Afternoon
+Theft,-25.552958,6.347136,Toronto,2024-02-28,Night
+Homicide,-32.526417,-115.199229,Toronto,2024-10-08,Evening
+Burglary,-41.390727,144.239523,Dubai,2023-12-03,Evening
+Vandalism,85.435689,80.306762,Toronto,2024-10-03,Afternoon
+Vandalism,76.59959,77.684269,Singapore,2024-05-04,Afternoon
+Kidnapping,-68.24977,2.186489,Paris,2024-06-20,Afternoon
+Vandalism,41.287799,-78.008734,Sydney,2024-03-08,Night
+Assault,-69.791207,-144.200886,Los Angeles,2024-02-17,Night
+Fraud,70.330006,144.817885,Toronto,2024-07-09,Morning
+Domestic Violence,55.236644,-46.683275,Tokyo,2024-09-13,Afternoon
+Assault,-72.69637,19.788054,Toronto,2024-09-04,Evening
+Theft,1.957571,-164.269329,New York,2023-12-07,Evening
+Domestic Violence,9.760098,-3.288711,Paris,2024-09-30,Evening
+Kidnapping,15.265322,-122.099847,New York,2024-05-03,Night
+Vandalism,56.327108,-79.082534,Singapore,2024-04-15,Morning
+Theft,73.593565,130.776142,Paris,2024-03-09,Evening
+Theft,52.30992,-146.487373,Singapore,2024-10-07,Evening
+Cyber Crime,-68.823521,86.073319,Sydney,2023-12-11,Morning
+Homicide,86.809114,179.868139,Tokyo,2024-07-01,Afternoon
+Domestic Violence,53.770421,-46.506482,Paris,2023-12-07,Night
+Fraud,34.077268,-102.503735,Dubai,2024-09-09,Night
+Assault,37.032558,102.410678,Singapore,2024-05-05,Afternoon
+Theft,4.54156,-178.936291,Toronto,2024-08-29,Evening
+Homicide,15.136053,-169.996835,Singapore,2024-10-23,Evening
+Theft,13.931451,-100.93225,Tokyo,2023-12-24,Evening
+Domestic Violence,-70.360971,-101.376739,London,2024-08-19,Afternoon
+Assault,-11.328003,12.100194,Singapore,2023-11-24,Afternoon
+Kidnapping,-89.860697,103.925043,Berlin,2024-03-24,Afternoon
+Domestic Violence,-78.025043,-96.809155,Los Angeles,2023-11-18,Night
+Domestic Violence,35.203881,56.890135,Tokyo,2024-01-31,Afternoon
+Theft,84.932719,-86.103721,Berlin,2024-03-08,Night
+Kidnapping,-19.246685,-26.063671,Singapore,2024-04-26,Morning
+Vandalism,-23.201468,171.397524,Sydney,2024-05-26,Afternoon
+Domestic Violence,66.996291,-64.800442,Dubai,2024-11-07,Evening
+Theft,80.704276,85.266796,Dubai,2024-09-15,Afternoon
+Assault,13.873036,55.33979,Los Angeles,2024-06-09,Evening
+Homicide,-77.123521,-73.431593,London,2024-08-16,Morning
+Fraud,-60.931414,58.262352,Singapore,2024-11-07,Afternoon
+Kidnapping,-26.914029,-119.128018,New York,2024-03-29,Afternoon
+Assault,48.230607,-55.620227,Tokyo,2023-12-12,Evening
+Fraud,-78.859281,125.299112,Paris,2024-03-09,Night
+Theft,61.594725,-88.686727,Tokyo,2024-05-26,Night
+Theft,-14.036235,-104.291585,New York,2024-01-08,Night
+Fraud,-36.102466,90.815053,Sydney,2024-10-04,Evening
+Assault,60.077071,-74.366825,Los Angeles,2024-07-05,Afternoon
+Domestic Violence,-52.99092,96.681624,Paris,2024-02-21,Afternoon
+Burglary,37.496155,-12.358936,Toronto,2024-09-13,Evening
+Homicide,84.123602,137.947715,Sydney,2024-01-16,Evening
+Vandalism,3.875886,73.666088,London,2023-12-13,Evening
+Assault,-4.508349,-108.749447,Paris,2024-02-12,Afternoon
+Fraud,-81.062278,110.370909,Paris,2024-06-07,Night
+Assault,-56.763398,148.520813,Toronto,2023-12-14,Evening
+Domestic Violence,-55.675816,164.950051,Paris,2024-08-18,Night
+Fraud,8.943132,20.148966,New York,2024-11-04,Morning
+Homicide,40.244947,114.565275,New York,2024-08-18,Afternoon
+Burglary,8.627901,-32.371029,Berlin,2024-05-26,Afternoon
+Assault,-51.577424,-37.583365,Singapore,2024-07-28,Afternoon
+Vandalism,-42.646651,140.28396,Dubai,2024-07-19,Morning
+Fraud,61.103235,42.829797,Singapore,2024-05-11,Evening
+Kidnapping,19.572577,-94.68552,Paris,2024-03-13,Morning
+Assault,25.899384,-33.866455,Tokyo,2024-03-01,Night
+Domestic Violence,-37.24637,-66.959832,Paris,2024-09-26,Evening
+Domestic Violence,87.453089,-136.400183,Los Angeles,2024-10-04,Evening
+Assault,42.816352,-25.868773,Dubai,2023-12-05,Night
+Kidnapping,-23.058212,32.009467,Sydney,2024-02-04,Evening
+Kidnapping,-59.613852,174.832435,Los Angeles,2024-04-11,Night
+Homicide,-33.347287,156.8699,Berlin,2024-07-14,Night
+Kidnapping,-29.754431,132.91094,Sydney,2024-06-14,Afternoon
+Domestic Violence,-85.331653,173.867878,London,2024-07-09,Morning
+Burglary,-87.706741,-160.054918,Toronto,2023-11-30,Evening
+Homicide,38.60663,-46.797023,New York,2024-03-21,Afternoon
+Homicide,42.029827,-16.493862,Los Angeles,2024-05-26,Evening
+Kidnapping,-0.164597,153.900409,Tokyo,2024-04-08,Afternoon
+Vandalism,-78.29011,-51.174424,London,2024-03-17,Morning
+Homicide,-31.805419,168.32326,Toronto,2024-10-21,Afternoon
+Vandalism,-0.380632,-54.802048,Tokyo,2024-05-10,Afternoon
+Domestic Violence,-27.839965,123.142085,Los Angeles,2024-02-18,Night
+Kidnapping,-15.044093,122.306057,London,2024-07-15,Morning
+Domestic Violence,25.809072,-61.757751,Singapore,2024-03-25,Morning
+Theft,27.000792,-99.601049,Toronto,2024-05-04,Morning
+Cyber Crime,4.929169,-0.994615,London,2024-05-03,Afternoon
+Homicide,-55.909543,170.765092,Los Angeles,2024-03-12,Morning
+Cyber Crime,19.691163,-22.116993,Paris,2024-09-30,Night
+Burglary,-88.674063,-74.414875,Tokyo,2024-06-05,Evening
+Cyber Crime,-45.345496,-146.694268,Singapore,2024-10-28,Evening
+Theft,-9.850377,-38.744017,Paris,2024-06-02,Evening
+Homicide,84.220981,-87.816648,Paris,2024-06-02,Afternoon
+Theft,82.641826,70.088727,Singapore,2024-09-12,Afternoon
+Domestic Violence,80.938777,175.965377,Singapore,2024-06-30,Evening
+Vandalism,-54.932801,78.610226,Singapore,2024-01-26,Evening
+Domestic Violence,1.471874,172.76276,Dubai,2024-01-03,Night
+Theft,-26.699744,30.849277,Los Angeles,2024-07-18,Evening
+Domestic Violence,59.72645,-173.822562,Berlin,2024-05-06,Afternoon
+Homicide,-14.835708,-109.107948,Toronto,2024-06-07,Afternoon
+Theft,-51.471044,-37.578059,London,2024-02-05,Evening
+Cyber Crime,8.680522,-75.895773,London,2024-05-27,Night
+Domestic Violence,-12.355145,178.284071,Los Angeles,2023-11-21,Afternoon
+Vandalism,-1.521543,97.905452,Los Angeles,2024-07-12,Morning
+Theft,-87.824166,148.588882,Dubai,2024-02-15,Afternoon
+Homicide,61.500761,172.391759,New York,2024-04-14,Morning
+Theft,68.27549,138.849658,Tokyo,2023-12-04,Evening
+Assault,70.901221,77.444255,Paris,2024-02-08,Morning
+Burglary,-78.356328,15.032143,Paris,2024-10-27,Night
+Homicide,19.648406,-48.017743,Sydney,2024-10-08,Afternoon
+Domestic Violence,-17.89234,177.291339,Berlin,2024-03-21,Morning
+Fraud,-74.26567,111.84436,London,2024-01-13,Morning
+Cyber Crime,77.6033,25.126712,Dubai,2024-05-06,Afternoon
+Burglary,33.960307,102.637228,Sydney,2024-01-23,Morning
+Assault,-60.970112,28.530009,Paris,2024-06-21,Afternoon
+Kidnapping,83.842076,-73.364809,Dubai,2023-12-06,Night
+Assault,-38.809218,85.692518,Paris,2024-10-04,Morning
+Assault,56.201935,113.276225,Paris,2024-01-12,Morning
+Cyber Crime,-40.866863,-101.418071,Tokyo,2023-12-05,Night
+Theft,73.356088,-117.262707,New York,2024-09-24,Afternoon
+Homicide,0.629762,153.723857,Los Angeles,2024-02-02,Night
+Vandalism,62.535722,-134.57177,Tokyo,2024-02-14,Afternoon
+Kidnapping,-18.267436,-168.590184,Los Angeles,2024-08-20,Morning
+Assault,-85.859656,128.845301,Tokyo,2023-12-17,Morning
+Vandalism,-84.651882,-162.30292,Berlin,2024-03-21,Night
+Theft,4.444689,40.066254,Paris,2024-09-24,Afternoon
+Domestic Violence,-30.765104,58.210304,Tokyo,2024-05-05,Afternoon
+Kidnapping,38.112429,-74.559666,Berlin,2024-01-22,Night
+Fraud,-46.462054,169.440276,Tokyo,2024-09-23,Morning
+Vandalism,-47.903251,-95.062976,Paris,2024-04-19,Morning
+Domestic Violence,52.692994,-122.96229,Berlin,2024-04-24,Morning
+Domestic Violence,-13.023189,136.948646,Sydney,2024-02-09,Morning
+Burglary,-26.829408,100.776501,Singapore,2024-10-23,Evening
+Cyber Crime,-80.761627,151.873399,Paris,2024-08-16,Morning
+Cyber Crime,-75.688946,49.792538,Toronto,2024-07-15,Afternoon
